@@ -7,3 +7,4 @@ Today I Learned
 ## 🔍목차
 - ### [인터넷은 어떻게 작동하는가](./Internet/internet.md)
 - ### [웹의 동작 방식](./Internet/web.md)
+- ### [DNS, 그리고 동작방식](./Internet/DNS.md)
