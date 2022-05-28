@@ -13,7 +13,7 @@
 ![img.png](https://raventools.com/marketing-glossary/wp-content/uploads/2016/02/1354-2.jpg) 
 
 ### 동작 흐름
-![img.png](./assets/img.png)
+![img.png](./assets/DNSdesc.png)
 1. 브라우저에서 도메인 이름을 가지고 사용하고 있는 ISP DNS 서버에 도메인 주소에 해당하는 IP를 요청한다.
 2. ISP 서버에서는 캐시 데이터가 있다면 주소를 안내하고 아니면 Root DNS 서버에 가야하는 주소를 요청한다.
 3. Root 서버는 TLD(그림의 Top-Level Domains) 서버 주소만 관리하기 때문에 edu/gov/com/net 중 포함된 서버로 주소를 안내한다.
