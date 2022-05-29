@@ -9,3 +9,4 @@ Today I Learned
 - ### [웹의 동작 방식](./Internet/web.md)
 - ### [DNS, 그리고 동작방식](./Internet/DNS.md)
 - ### [HTTP란?](./Internet/HTTP.md)
+- ### [브라우저, 그리고 동작 방식](./Internet/browser.md)
