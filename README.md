@@ -10,3 +10,4 @@ Today I Learned
 - ### [DNS, 그리고 동작방식](./Internet/DNS.md)
 - ### [HTTP란?](./Internet/HTTP.md)
 - ### [브라우저, 그리고 동작 방식](./Internet/browser.md)
+- ### [도메인 이름이란?](./Internet/domain-name.md)
