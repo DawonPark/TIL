@@ -30,3 +30,5 @@
 ![랜더링 엔진 플로우](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLUQZs%2Fbtq0fkqwXxw%2FysRkZEkWwgR9RJRWxoBUNK%2Fimg.png)
 
 - 위 두 그림 모두 HTML 파싱 후 돔트리를 만들고 CSS 파싱후 렌더 트리를 구축한 후 배치를 하고 그리는 과정을 확인 할 수 있다.
+
+참고 : https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
